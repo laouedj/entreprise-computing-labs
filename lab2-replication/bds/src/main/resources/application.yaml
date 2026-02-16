@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: bds
+    mode: AP
+    peer-url: "http://localhost:5001"
